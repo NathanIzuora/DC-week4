@@ -1,0 +1,23 @@
+body{
+
+    background-image: url("fireworks.jpg");
+}
+.myclassname{
+margin:auto;
+position: relative;
+top:50px;
+width:50%;
+background-color: rgb(28, 28, 224);
+padding:20px;
+border-radius: 8%;
+min-height:500px;
+
+}
+
+#mysubmitbutton{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
